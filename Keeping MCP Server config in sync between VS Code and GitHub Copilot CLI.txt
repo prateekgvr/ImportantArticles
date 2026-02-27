@@ -1,0 +1,2 @@
+Keeping MCP Server config in sync between VS Code and GitHub Copilot CLI - 
+https://www.007ffflearning.com/post/keeping-mcp-config-in-sync-between-vscode-and-cli/
