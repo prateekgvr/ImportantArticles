@@ -1,0 +1,26 @@
+Design, develop, and implement agentic AI blueprints (applications) that show enterprises how to utilize and deploy this technology.
+Lead technical reviews and provide mentorship, guiding the engineering team in building production-grade workflows and extending core GenAI SDK capabilities.
+Develop proof-of-concept workflows rooted in first principles that apply modern data science techniques to GenAI use cases.
+Collaborate cross-functionally with product, research, and infrastructure teams to evolve NVIDIA's agentic ecosystem, including integrations between the NeMo Agent Toolkit and other NVIDIA products and services such as the NeMo Framework, NIMs, and NVIDIA Blueprints.
+Drive performance optimization for agentic applications across the data center, focusing on improving accuracy, reducing latency, and growing efficiency.
+Establish engineering standards and best practices for developing, testing, and deploying agentic AI applications across distributed environments.
+
+What We Need To See
+
+BS in Computer Engineering, Computer Science, Data Science, or a related field, or equivalent experience; MS or PhD preferred
+8+ years of software engineering experience, including 2+ years as tech lead.
+Proficient in Python, with at least 6+ years of experience building Python libraries or applications for enterprise customers.
+Experience with GenAI application development using LLM frameworks (e.g., Langchain, Llamaindex, or AutoGen), evaluation systems (e.g., RAGAs), and observability platforms (e.g., Arize Phoenix, W&B Weave, or LangSmith).
+Experience using and understanding of agentic frameworks.
+Proficient in distributed orchestration and communication frameworks (e.g., Kafka, Ray).
+Ability to quickly learn and apply new technologies and libraries.
+Self-starter with a proactive work ethic, capable of working independently and successfully within a distributed team.
+Excellent communication and collaboration skills across distributed, cross-functional teams.
+
+Ways To Stand Out From The Crowd
+
+Demonstrated leadership in building and scaling agentic AI applications in production.
+Experience developing your own agents in Python or a similar language (e.g., Go).
+Concrete examples/code of how you have profiled code in the past to identify performance bottlenecks and examples of how you mitigated these.
+Experience developing for GPU platforms and familiarity with NVIDIA technologies (e.g., CUDA, TensorRT, Triton, NeMo) and LLM serving frameworks (e.g., Dynamo, vLLM, SGLang).
+Experience with RAG systems and communication protocols (e.g., MCP, A2A).
