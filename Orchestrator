@@ -1,2 +1,8 @@
 https://gist.github.com/burkeholland/0e68481f96e94bbb98134fa6efd00436#file-three-agent-md
 GasTown - GST
+equential: Agents act in a chain (e.g., Data Collector 
+ Analyzer 
+ Report Generator).
+Hierarchical (Managerial): A "manager" agent oversees worker agents.
+Directed Acyclic Graph (DAG): Parallel execution where outputs are shared.
+Hybrid: A combination of techniques to handle complex, long-running processes.
