@@ -1,0 +1,35 @@
+(That should be mandatory for every .NET developer to study)
+
+BEGINNER (Start here):
+
+1. Clean architecture template for .NET apps
+https://lnkd.in/d8KkMJrx
+
+2. Vertical slice architecture example
+https://lnkd.in/dxbBMM5a
+
+3. .NET 10 starter kit with multitenancy support
+https://lnkd.in/d3YvD5eZ
+
+ADVANCED (Level up):
+
+4. Modular monolith application with DDD
+https://lnkd.in/dftp8iM6
+
+5. Evolutionary architecture by example
+https://lnkd.in/dsqv5Q2u
+
+6. eCommerce microservice .NET application
+https://lnkd.in/d_XNwxvP
+
+7. Hexagonal application example
+https://lnkd.in/dcfctsyJ
+
+I break down 5 of these repos in more depth in my ".NET Blueprints" guide.
+
+I've highlighted the patterns, structure, and NuGet packages each one uses, so you can instantly see how experts:
+• separate layers,
+• manage dependencies,
+• apply patterns like DDD, CQRS, and clean architecture.
+
+Download it here: https://lnkd.in/dTxerVwX
