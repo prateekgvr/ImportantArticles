@@ -1,2 +1,4 @@
 Agent Harness 
 https://openai.com/index/harness-engineering/
+https://github.com/Sumanth077/ai-engineering-toolkit
+http://aiengineering.beehiiv.com/
