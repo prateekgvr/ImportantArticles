@@ -2,3 +2,4 @@ Agent Harness
 https://openai.com/index/harness-engineering/
 https://github.com/Sumanth077/ai-engineering-toolkit
 http://aiengineering.beehiiv.com/
+https://medium.com/@guruprasad.kb/beyond-the-10x-engineer-205db7955e9c
